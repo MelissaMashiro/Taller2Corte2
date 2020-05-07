@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Visitantes</string>
+    <string name="txt_nombre">"Nombre</string>
+    <string name="txt_cedula">"Cedula</string>
+    <string name="txt_apto">"Apartamento</string>
+    <string name="txt_tipo">"Tipo de visita</string>
+    <string name="button">"Guardar</string>
+    <string name="button4">Lista</string>
+    <string name="TextView">"REGISTRO DE VISITANTE</string>
+    <string name="Item1">Actualizar Dato</string>
+    <string name="Item2">Eliminar</string>
+</resources>
